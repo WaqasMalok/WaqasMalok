@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend web-developer</h3>
 
 <img align="center" alt="coding" width="100%" src="https://media0.giphy.com/media/LlKN0pAfAduGRYWdbQ/giphy.gif?cid=790b7611d4ae4c56eff8a71377eb4117000c1a9e71064f9c&rid=giphy.gif&ct=g">
-<img align="right" alt="code withe waqas malik" width="50%" src="https://i.pinimg.com/564x/77/fe/2c/77fe2c2468402f8576e25515f9947c9a.jpg">
+<img align="right" alt="code withe waqas malik" width="50%" src="https://i.pinimg.com/564x/54/79/d9/5479d954d1ba5ed81423a71215381df0.jpg">
 
 
 
