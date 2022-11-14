@@ -3,6 +3,7 @@
 <h3 align="center">A passionate frontend web-developer</h3>
 
 <img align="center" alt="coding" width="100%" src="https://media0.giphy.com/media/LlKN0pAfAduGRYWdbQ/giphy.gif?cid=790b7611d4ae4c56eff8a71377eb4117000c1a9e71064f9c&rid=giphy.gif&ct=g">
+<img align="right" alt="code withe waqas malik" width="50%" src="https://i.pinimg.com/564x/77/fe/2c/77fe2c2468402f8576e25515f9947c9a.jpg">
 
 
 
@@ -11,6 +12,11 @@
 
 
 <p align="left"> <a href="https://twitter.com/@mkwaqasawan" target="blank"><img src="https://img.shields.io/twitter/follow/@mkwaqasawan?logo=twitter&style=for-the-badge" alt="@mkwaqasawan" /></a> </p>
+
+
+
+
+
 
 - 🌱 I’m currently learning **JAVASCRITE, SEO, VIDEO EDITING**
 
@@ -21,7 +27,7 @@
 - 📫 How to reach me **waqasimalok@gmail.com**
 
 - ⚡ Fun fact **I THINK I AM FUNNY😇**
-<img align="center" alt="code withe waqas malik" width="100%" src="https://media4.giphy.com/media/fNFfDeyLA20x4c0DmR/giphy.gif?cid=790b76116d7dfe19eda5ee0627364fb3f8726382eebbd6f1&rid=giphy.gif&ct=g">
+
 
 
 <h3 align="left">Connect with me:</h3>
