@@ -36,8 +36,20 @@
 
 - ⚡ Fun fact **I THINK I AM FUNNY😇**
 
+````ruby
+MY ALL PROJECT
 
+https://waqas-malik-temperature-convertt.pages.dev/
+https://waqasmalik-portfolio-website.pages.dev/
+````
+#
+https://waqasmalik-portfolio-website.pages.dev/
 
+#
+https://waqas-malik-temperature-convertt.pages.dev/
+#
+#
+#
 
 <p><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=waqasmalok&show_icons=true&locale=en&layout=compact" alt="waqasmalok" /></p>
 
