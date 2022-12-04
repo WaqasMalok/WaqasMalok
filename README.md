@@ -40,13 +40,7 @@
 MY ALL PROJECT
 
 https://waqas-malik-temperature-convertt.pages.dev/
-https://waqasmalik-portfolio-website.pages.dev/
-https://waqas-malik-temperature-convertt.pages.dev/
-https://waqasmalik-portfolio-website.pages.dev/
-https://waqas-malik-temperature-convertt.pages.dev/
-https://waqasmalik-portfolio-website.pages.dev/
-https://waqas-malik-temperature-convertt.pages.dev/
-https://waqasmalik-portfolio-website.pages.dev/
+https://waqasmalik-portfolio-website.pages.dev/ 
 ````
 #
 https://waqasmalik-portfolio-website.pages.dev/
