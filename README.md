@@ -1,4 +1,4 @@
-# Waqas-Malik
+ # WELCOME
 <h1 align="center">Hi 👋, I'm WAQAS MALIK</h1>
 <h3 align="center">A passionate frontend web-developer</h3>
 
