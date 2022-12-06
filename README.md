@@ -38,8 +38,10 @@
 
 ````ruby
  TS TEAM
- Waqas Malok #
- Taimoor Salyhal #
+ Waqas Malok 
+ https://github.com/WaqasMalok?tab=followers
+ Taimoor Salyhal 
+ https://github.com/asfandtaimoor
 ````
 #
  
