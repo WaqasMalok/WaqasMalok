@@ -36,13 +36,10 @@
 
 - ⚡ Fun fact **I THINK I AM FUNNY😇**
 
-````ruby
- TS TEAM
- Waqas Malok >> https://github.com/WaqasMalok?tab=followers 
- Taimoor Salyhal >> https://github.com/asfandtaimoor
-````
-#
+
+# TS TEAM
  
+
 
 <p><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=waqasmalok&show_icons=true&locale=en&layout=compact" alt="waqasmalok" /></p>
 
