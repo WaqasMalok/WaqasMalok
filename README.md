@@ -12,9 +12,9 @@
 
 - 👯 I'm looking to collaborate on **Backend Wed Developer & Web Designer**
 
-- 🤝 I'm looking for help with **Finding Job**
+- 🤝 I'm looking for a **Finding Job**
 
-- 💬 Ask me about **Front-end developer with strong experience in HTML, CSS, JavaScript, React, and WordPress.**
+- 💬 Ask me about **Front-end developer in HTML, CSS, JavaScript, React, and WordPress.**
 
 - 📫 How to reach me **waqasimalok@gmail.com**
 
