@@ -1,6 +1,6 @@
 # Hi 👋, I'm Waqas Ahmed
 
-### An experienced Html developer
+### An experienced front-end developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WaqasMalok&label=Profile views&color=0e75b6&style=flat" alt="WaqasMalok" /> </p>
 
